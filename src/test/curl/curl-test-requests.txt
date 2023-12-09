@@ -1,0 +1,2 @@
+curl --location 'http://localhost:8080/demo-spring-app/api/v1/public/appinfo' --header 'Content-Type: application/json' --header 'Accept: application/json'
+
